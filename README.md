@@ -20,23 +20,31 @@ An end-to-end data science project using the IBM HR Analytics dataset to predict
 ├── requirements.txt                 # Minimum environment dependencies
 └── README.md                        # Project documentation
 
-## 📊 Presentation Slides
-
 <details open>
 <summary><b>📂 Click to collapse/expand presentation deck</b></summary>
 <br>
 
 ![Slide 1](Presentation%20slides/1.png)
+
 ![Slide 2](Presentation%20slides/2.png)
+
 ![Slide 3](Presentation%20slides/3.png)
+
 ![Slide 4](Presentation%20slides/4.png)
+
 ![Slide 5](Presentation%20slides/5.png)
+
 ![Slide 6](Presentation%20slides/6.png)
+
 ![Slide 7](Presentation%20slides/7.png)
+
 ![Slide 8](Presentation%20slides/8.png)
+
 ![Slide 9](Presentation%20slides/9.png)
+
 ![Slide 10](Presentation%20slides/10.png)
 
 </details>
+
 
 
