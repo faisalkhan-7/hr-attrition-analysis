@@ -1,4 +1,4 @@
-# HR Attrition Predictive Analytics & Financial Risk Modeling
+# HR Attrition Predictive Analytics & Financial Risk Modeling - Case Study
 
 An end-to-end data science project using the IBM HR Analytics dataset to predict voluntary employee turnover and quantify financial exposure. This project addresses severe class imbalance to isolate high-risk attrition drivers (burnout, compensation gaps) and translates machine learning classification metrics into a $6.8M data-driven corporate retention strategy.
 
