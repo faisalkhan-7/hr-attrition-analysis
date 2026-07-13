@@ -19,3 +19,19 @@ An end-to-end data science project using the IBM HR Analytics dataset to predict
 │   └── 02_predictive_modeling.ipynb # Synthetic balancing, pipeline training, and cost modeling
 ├── requirements.txt                 # Minimum environment dependencies
 └── README.md                        # Project documentation
+
+## 📊 Presentation Slides
+
+<div align="center">
+  <img src="Presentation%20slides/1.png" width="48%" />
+  <img src="Presentation%20slides/2.png" width="48%" />
+  <img src="Presentation%20slides/3.png" width="48%" />
+  <img src="Presentation%20slides/4.png" width="48%" />
+  <img src="Presentation%20slides/5.png" width="48%" />
+  <img src="Presentation%20slides/6.png" width="48%" />
+  <img src="Presentation%20slides/7.png" width="48%" />
+  <img src="Presentation%20slides/8.png" width="48%" />
+  <img src="Presentation%20slides/9.png" width="48%" />
+  <img src="Presentation%20slides/10.png" width="48%" />
+</div>
+
